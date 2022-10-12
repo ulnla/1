@@ -2,17 +2,12 @@
 
 ## Education
 
-```sh
-2022-2026
-INNI ZNU 
-Specialty 151 Automation and computer-integrated technologies 
-```
+* 2022-2026
+    * INNI ZNU Specialty 151 Automation and computer-integrated technologies.
 
-```sh
-2011-2022
-ZNVK 67
-Graduated with an average score of 10. I have high scores in mathematics, physics and computer science.
-```
+* 2011-2022
+    * ZNVK 67 Graduated with an average score of 10. I have high scores in mathematics, physics and computer science.
+
 
 ## Skills
 
@@ -22,6 +17,7 @@ Graduated with an average score of 10. I have high scores in mathematics, physic
 | Work with numbers, graphs | Developed imagination |
 | Fundamentals of programming | Work in a team |
 | MS Office | Desire to learn |
+
 
 ## Personal data:
 
