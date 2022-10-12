@@ -4,21 +4,21 @@
 
 ```sh
 2022-2026
-Bachelor, INNI ZNU
-Спеціальність 151 Автоматизація та комп’ютерно-інтегровані технології
+INNI ZNU 
+Specialty 151 Automation and computer-integrated technologies 
 ```
 
 ```sh
 2011-2022
 ZNVK 67
-Graduated with an average score of 10. I have high marks in mathematics, physics and computer science.
+Graduated with an average score of 10. I have high scores in mathematics, physics and computer science.
 ```
 
 ## Skills
 
-| Hard skills | Soft skills |
-| ------ | ------ |
-| Logic | Creativity |
+| Hard skill | Soft skills  |
+| -----------| ------------ |
+| Logic  | Creativity |
 | Work with numbers, graphs | Developed imagination |
 | Fundamentals of programming | Work in a team |
 | MS Office | Desire to learn |
